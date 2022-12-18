@@ -5,7 +5,6 @@
 - 🚀 Eager to learn, dive into techniques, and be a part of products that make the world a better place
 
 I'm working on a project about a matchmaking platform.\
-👉 Go play with it via https://get-a-room.online \
 👉 Check Repo https://github.com/pschuang/get-a-room-server
 
 #### Languages & Tools
